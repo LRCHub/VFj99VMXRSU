@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Rock That Body",
+  "base_artist": "The Black Eyed Peas",
+  "createdAt": "2026-03-08T15:01:23.309731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock That Body - Skrillex Remix",
+      "artist": "Black Eyed Peas feat. Skrillex",
+      "has_synced": true,
+      "path": "select/01_Rock_That_Body_-_Skrillex_Remix_Black_Eyed_Peas_feat._Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock That Body Remix - The Black Eyed Peas",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/02_Rock_That_Body_Remix_-_The_Black_Eyed_Peas_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock That Body",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/03_Rock_That_Body_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/04_Rock_That_Body_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock That Body (apl.de.ap & DJ Replay Remix)",
+      "artist": "Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/05_Rock_That_Body_(apl.de.ap_&_DJ_Replay_Remix)_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock That Body (Apl.De.Ap & Dj Replay Remix)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/06_Rock_That_Body_(Apl.De.Ap_&_Dj_Replay_Remix)_The_Black_Eyed_Peas.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock That Body - Chris Lake Remix",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/07_Rock_That_Body_-_Chris_Lake_Remix_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock That Body (Chris Lake remix)",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/08_Rock_That_Body_(Chris_Lake_remix)_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock That Body - Radio Edit",
+      "artist": "Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/09_Rock_That_Body_-_Radio_Edit_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock That Body (Radio Edit)",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/10_Rock_That_Body_(Radio_Edit)_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "has_synced": true,
+      "path": "select/11_Rock_That_Body_The_Black_Eyed_Peas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "rock that body",
+      "artist": "the black eyed peas",
+      "has_synced": true,
+      "path": "select/12_rock_that_body_the_black_eyed_peas.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rock that Body",
+      "artist": "Black Eyed Peas, The",
+      "has_synced": true,
+      "path": "select/13_Rock_that_Body_Black_Eyed_Peas,_The.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_That_Body_The_Black_Eyed_Peas.txt"
+    }
+  ]
+}
